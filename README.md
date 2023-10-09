@@ -24,7 +24,8 @@ I am a student studying at UTM majoring in Computer Science (Bioinformatics). ðŸ
 
 ## Hobbies
 - Hiking in the mountains
-- ![SoExcited~GIF](https://github.com/QiyanLu/qiyan/assets/102568566/436e589e-b53b-4c3a-abc9-be4f45fb43a7)
+
+![SoExcited~GIF](https://github.com/QiyanLu/qiyan/assets/102568566/436e589e-b53b-4c3a-abc9-be4f45fb43a7)
 
 
 
