@@ -8,7 +8,7 @@ I am a student studying at UTM majoring in Computer Science (Bioinformatics).
 - **Location:** Johor Bahru, Johor
 
 ## Skills
-- Web Development (HTML, CSS, JavaScript)
+- Web Development (HTML, CSS, JavaScript, pHp)
 - Database Management (SQL)
 - Programming (C++, Java)
 - Problem Solving and Algorithm Design
